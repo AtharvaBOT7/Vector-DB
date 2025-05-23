@@ -1,0 +1,1 @@
+Could not use OpenAI embedding as it by default coverts the vectors to a dimension size of 1536 but Pinecone does not support custom dimension size.
